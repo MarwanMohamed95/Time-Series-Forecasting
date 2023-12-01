@@ -1,7 +1,3 @@
-Certainly! Below is an example README documentation for two notebooks focused on time series analysis using LSTM+Conv1D and Transformer. This documentation assumes that you have organized your project structure and notebooks appropriately. Adjustments may be needed based on your specific project setup.
-
----
-
 # Time Series Analysis Notebooks
 
 ## Overview
